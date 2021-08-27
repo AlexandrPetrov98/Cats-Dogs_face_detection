@@ -1,5 +1,5 @@
 # Cats-Dogs_face_detection
-Transfer Learning using PyTorch, for Cats&Dogs face detection
+Transfer Learning using PyTorch, for Cats&Dogs face detection with VGG-16
 
 ### Result preview
 ![image](https://user-images.githubusercontent.com/49807173/131125735-9ae5ac71-e3fd-4293-a759-28ff461a3cf4.png)
